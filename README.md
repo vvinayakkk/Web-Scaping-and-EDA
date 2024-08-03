@@ -27,6 +27,10 @@ The `scrape_cars.py` script is responsible for:
    - **Year**: The manufacturing year of the car.
 3. **Storing Data**: Saves the extracted car details into a CSV file, which can be used for further analysis and visualization.
 
+![Screenshot 2024-08-03 134119](https://github.com/user-attachments/assets/fbb38171-fbbe-4dfa-95a8-dd8e1001526c)
+![Screenshot 2024-08-03 134126](https://github.com/user-attachments/assets/6ea4153d-0e2c-432c-a6c8-78873485d430)
+![Screenshot 2024-08-03 134140](https://github.com/user-attachments/assets/7eeedaf7-6c75-45d3-a080-06b3b64a1b92)
+
 You can install these packages using pip:
 
 ```bash
